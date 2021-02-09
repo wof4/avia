@@ -1,0 +1,28 @@
+.price {
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-end;
+    }
+    
+    .card__header {
+        display: flex;
+        justify-content: space-between;
+        background-color: #0087c9;
+        color: #fff;
+        padding: 0 15px;
+        align-items: center;
+    }
+    
+    .logo {
+        content: "";
+        display: flex;
+        width: 111px;
+        height: 30px;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    .price__text{
+        font-size: 11px;
+        margin-bottom: 2px;
+    }

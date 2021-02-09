@@ -1,0 +1,20 @@
+.time{
+    display: flex;
+    justify-content: space-between;
+    padding: 9px 14px 4px 20px;
+    align-items: flex-end;
+}
+
+.data {
+    display: flex;
+    align-items: baseline;
+}
+
+.day {
+    padding: 0 8px;
+    color: #0087c9;
+}
+
+.time__dep_arr{
+    font-size: 22px;
+}

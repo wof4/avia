@@ -1,0 +1,10 @@
+.by {
+    display: flex;
+    justify-content: center;
+    padding: 9px;
+    background-color: #ffb168;
+    font-size: 18px;
+    margin-top: -2px;
+    color: #fff;
+
+}

@@ -1,0 +1,54 @@
+.form_container {
+    position: fixed;
+}
+
+.radio__label {
+    position: relative;
+}
+
+.radio__label_text {
+    position: absolute;
+    top: 0px;
+    left: 27px;
+}
+
+.form__radiobuttons {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 22%;
+}
+
+.form__checkbox {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+
+.form__price {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2%;
+}
+
+.form__price_input {
+    margin-left: 6px;
+    margin-bottom: 17px;
+}
+
+.form__title {
+    padding: 0px 0px 16px 7px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bast__price {
+    width: 50%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    cursor: pointer;
+}
+.bast__price_container {
+    display: flex;
+    align-items: baseline;
+}
