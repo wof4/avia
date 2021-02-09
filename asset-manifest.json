@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/avia/static/css/main.4cc3a023.chunk.css",
+    "main.js": "/avia/static/js/main.0cbd8fae.chunk.js",
+    "main.js.map": "/avia/static/js/main.0cbd8fae.chunk.js.map",
+    "runtime-main.js": "/avia/static/js/runtime-main.a7fa7afc.js",
+    "runtime-main.js.map": "/avia/static/js/runtime-main.a7fa7afc.js.map",
+    "static/js/2.43278d53.chunk.js": "/avia/static/js/2.43278d53.chunk.js",
+    "static/js/2.43278d53.chunk.js.map": "/avia/static/js/2.43278d53.chunk.js.map",
+    "index.html": "/avia/index.html",
+    "precache-manifest.5dff663b1311a3250e09d739c366de75.js": "/avia/precache-manifest.5dff663b1311a3250e09d739c366de75.js",
+    "service-worker.js": "/avia/service-worker.js",
+    "static/css/main.4cc3a023.chunk.css.map": "/avia/static/css/main.4cc3a023.chunk.css.map",
+    "static/js/2.43278d53.chunk.js.LICENSE.txt": "/avia/static/js/2.43278d53.chunk.js.LICENSE.txt",
+    "static/media/AF.png": "/avia/static/media/AF.403829fb.png",
+    "static/media/AY.png": "/avia/static/media/AY.a84ad2bc.png",
+    "static/media/AZ.png": "/avia/static/media/AZ.f782607a.png",
+    "static/media/BT.png": "/avia/static/media/BT.57c9a5d4.png",
+    "static/media/KL.png": "/avia/static/media/KL.4c512d93.png",
+    "static/media/LO.png": "/avia/static/media/LO.9b340336.png",
+    "static/media/PC.png": "/avia/static/media/PC.9952a50c.png",
+    "static/media/Rt3jVfh.png": "/avia/static/media/Rt3jVfh.e7d35f64.png",
+    "static/media/SN.png": "/avia/static/media/SN.90dd4343.png",
+    "static/media/SU.png": "/avia/static/media/SU.d38aab91.png",
+    "static/media/TK.png": "/avia/static/media/TK.2990e9d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7fa7afc.js",
+    "static/js/2.43278d53.chunk.js",
+    "static/css/main.4cc3a023.chunk.css",
+    "static/js/main.0cbd8fae.chunk.js"
+  ]
+}
